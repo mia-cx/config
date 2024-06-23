@@ -54,7 +54,7 @@
     "@microsoft/api-extractor": "^7.47.0",
     "@types/eslint": "^8.56.10",
     "@vercel/style-guide": "^6.0.0",
-    "eslint": "^8.57.0",
+    "eslint": "^9.5.0",
     "eslint-plugin-svelte": "^2.40.0",
     "prettier": "^3.3.2",
     "prettier-plugin-astro": "^0.14.0",
